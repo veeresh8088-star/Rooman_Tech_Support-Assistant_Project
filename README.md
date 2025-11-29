@@ -1,6 +1,10 @@
 # 🤖 Rooman Support Assistant — AI Powered Support Agent  
 ### Built with OpenAI + Gemini + LangChain + ChromaDB + Streamlit
 
+
+Deployemnt :  https://roomansupportinpy-2dx2nejxdvkttsmerdxrkx.streamlit.app/
+
+ 
 The **Rooman Support Assistant** is a fully functional AI-powered support chatbot that uses:
 
 - 🔹 **Keyword-based FAQ matching**  
