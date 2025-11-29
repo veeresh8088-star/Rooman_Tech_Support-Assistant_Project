@@ -1,0 +1,8 @@
+streamlit
+openai
+google-generativeai
+langchain
+chromadb
+python-dotenv
+llama-index
+google-api-python-client
